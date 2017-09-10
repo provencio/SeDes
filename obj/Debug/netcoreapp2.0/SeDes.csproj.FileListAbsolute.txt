@@ -1,0 +1,10 @@
+/Users/administrator/Desktop/Workspaces/SeDes/bin/Debug/netcoreapp2.0/SeDes.deps.json
+/Users/administrator/Desktop/Workspaces/SeDes/bin/Debug/netcoreapp2.0/SeDes.runtimeconfig.json
+/Users/administrator/Desktop/Workspaces/SeDes/bin/Debug/netcoreapp2.0/SeDes.runtimeconfig.dev.json
+/Users/administrator/Desktop/Workspaces/SeDes/bin/Debug/netcoreapp2.0/SeDes.dll
+/Users/administrator/Desktop/Workspaces/SeDes/bin/Debug/netcoreapp2.0/SeDes.pdb
+/Users/administrator/Desktop/Workspaces/SeDes/obj/Debug/netcoreapp2.0/SeDes.csproj.CoreCompileInputs.cache
+/Users/administrator/Desktop/Workspaces/SeDes/obj/Debug/netcoreapp2.0/SeDes.AssemblyInfoInputs.cache
+/Users/administrator/Desktop/Workspaces/SeDes/obj/Debug/netcoreapp2.0/SeDes.AssemblyInfo.cs
+/Users/administrator/Desktop/Workspaces/SeDes/obj/Debug/netcoreapp2.0/SeDes.dll
+/Users/administrator/Desktop/Workspaces/SeDes/obj/Debug/netcoreapp2.0/SeDes.pdb
